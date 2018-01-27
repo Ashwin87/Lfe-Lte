@@ -1,4 +1,4 @@
-# Project Name Lfe-Lte
+# Lfe-Lte
 
 This project is to create a Social Media Contest Manager
 
